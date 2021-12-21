@@ -1,0 +1,24 @@
+Excercise 1
+------------
+1. print : "This is module 1 excercise"
+
+2. 	declare two varaibles x & y
+	assign 5 and 6 respectively
+	assign summation of both values in new variable z and print the value
+	
+3.	command for getting memory location of a variable
+
+4.	print the type of x="ravi"
+
+5.	convert a varaible with integer data type x = 50 to string
+
+6.	check whether word 'python' is present in varaible "python for beginners"
+
+7. 	slice 'for' from a varaible "python for beginners" and print
+
+8. 	convert all the letters to capital for varaible "python for beginners" and print
+
+9.	replace 'python' with 'python3' for varaible "python for beginners" and print
+
+10. Get length of a varaible "python for beginners"
+
