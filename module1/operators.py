@@ -79,10 +79,11 @@ print(x!=y) # true
 
 #>=
 print(x>=y) # false
+5>=4, 5>=5, 4>=5
 
 # <=
 print(x<=y) # false
-
+5<=6, 5<=5, 6<=5
 # addition
 print(x+y)
 

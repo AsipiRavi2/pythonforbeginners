@@ -1,22 +1,42 @@
 1. 	print : "This is module 1 excercise"
+print("This is module 1 excercise")
 
 2. 	declare two varaibles x & y
 	assign 5 and 6 respectively
 	assign summation of both values in new variable z and print the value
-	
+x=5
+y=6
+z=x+y
+print(z)
+
 3.	command for getting memory location of a variable
+x = 5
+print(id(x))
 
 4.	print the type of x="ravi"
+x="ravi"
+print(type(x))
 
 5.	convert a varaible with integer data type x = 50 to string
+x = 50
+print(str(x))
 
 6.	check whether word 'python' is present in varaible "python for beginners"
+x = "python for beginners"
+print('python' in x)
 
 7. 	slice 'for' from a varaible "python for beginners" and print
+x = "python for beginners"
+print(x[7:10])
 
 8. 	convert all the letters to capital for varaible "python for beginners" and print
+x = "python for beginners"
+print(x.upper())
 
 9.	replace 'python' with 'python3' for varaible "python for beginners" and print
+x = "python for beginners"
+print(x.replace('python', 'python3'))
 
 10. Get length of a varaible "python for beginners"
-
+x = "python for beginners"
+print(len(x))
