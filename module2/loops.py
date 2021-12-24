@@ -24,11 +24,25 @@
 #    else:
 #        continue
 
-for n in range(2, 10):
-    for x in range(2, n):
-        if n % x == 0:
-            print( n, 'equals', x, '*', n/x)
-            break
-    else:
-        # loop fell through without finding a factor
-        print(n, 'is a prime number')
+#for n in range(2, 10):
+#    for x in range(2, n):
+#        if n % x == 0:
+#            print( n, 'equals', x, '*', n/x)
+#            break
+#    else:
+#        # loop fell through without finding a factor
+#        print(n, 'is a prime number')
+
+
+#age = int(input("Enter age : "))
+#
+#if age >=10:
+#    print("age is >= 10")
+#    
+#if age>=20:
+#    print("age is >= 20")
+#    
+#if age>=30:
+#    print("age is >= 30")
+#else:
+#    print("age is under 10")
