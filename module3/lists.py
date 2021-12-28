@@ -7,6 +7,6 @@ new_cars = []
 #
 #print(new_cars)
 
-new_cars=[car for car in cars]
+new_cars=[car for car in cars ]
 
 print(new_cars)

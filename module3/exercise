@@ -1,0 +1,11 @@
+1. 	Declare a list variable 'cars' with ("BMW","HONDA","TESLA") as elements.
+2.	Get the length of 'cars' list.
+3.	Access the second element of the 'cars' list.
+4.	Check whether "TESLA" is present in the list or not.
+5.	Insert "TATA" as second element.
+6.	Print each element of 'cars' list in lowercases.
+7.	Write a program to create a list 'carsLower' with elements in lower cases using 'cars' list (use comprehension).
+8.	Sort 'cars' list in ascending and descending order.
+9.	Extend 'cars' list with carsLower list.
+10.	Check index of 'bmw' in newly extended list.
+11.	Sytax to get 6 from list [[[1,2],[4,5]],[[6,7],[8,9]],[[0],[10]]] .
