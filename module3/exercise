@@ -8,4 +8,7 @@
 8.	Sort 'cars' list in ascending and descending order.
 9.	Extend 'cars' list with carsLower list.
 10.	Check index of 'bmw' in newly extended list.
-11.	Sytax to get 6 from list [[[1,2],[4,5]],[[6,7],[8,9]],[[0],[10]]] .
+11.	Sytax to get 6 from list [[[1,2],[4,5]],[[6,7],[8,9]],[[0],[10]]].
+
+12. write a program to remove duplicates from given list using set data types concept
+	list = [2,2,3,4,5,6,3,6,5,4,1]
