@@ -1,0 +1,5 @@
+1.	function to print 1 to 10.
+2.	function to check two string are anagram or not.
+3.	function to get duplicate numbers in a list.
+4.	function to check if a string is a palindrome.
+5.	function to print fibonnaci series upto n terms using recursion.
